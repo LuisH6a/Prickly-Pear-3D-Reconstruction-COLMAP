@@ -46,6 +46,13 @@ of the image acquisition environment. The conditions of each case are described 
 - Constant lighting and background with minimal noise.
 - Photographs taken on the side of the sample and with a small angle of inclination.
 
+
+
+> Fig. 2. Clean 3D prickle pear models in OBJ format
+
+> Fig. 3. Clean 3D prickle pear models in STL format
+
+
 #### Case 2 Parameters
 - Xiaomi M2003J15SC camera, F point f/1.8, exposure time 1/15s, ISO-160 speed, focal length 5mm, without flash.
 - Camera in vertical position fixed at 175mm from the camera's axis of rotation.
