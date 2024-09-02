@@ -64,8 +64,9 @@ of the image acquisition environment. The conditions of each case are described 
 minimum angle of 5.625° for the set of 64 images, in order to make use of a single database 
 of photographs taken of the sample.
 
-![obj1](https://github.com/user-attachments/assets/f52dc176-c54d-4be6-a710-8cec9be7223e)
-> Fig. 2. Clean 3D prickle pear models in OBJ format, case 1
 
-![stl1](https://github.com/user-attachments/assets/fad0077a-b78f-4139-91f1-0ec8a746c631)
-> Fig. 3. Clean 3D prickle pear models in STL format, case 1
+![obj2](https://github.com/user-attachments/assets/62637175-7a74-46c7-ada1-2961f3b3b2c3)
+> Fig. 2. Clean 3D prickle pear models in OBJ format, case 2
+
+![stl2](https://github.com/user-attachments/assets/854f77e7-cbec-461e-8e80-1b27785944a8)
+> Fig. 3. Clean 3D prickle pear models in STL format, case 2
