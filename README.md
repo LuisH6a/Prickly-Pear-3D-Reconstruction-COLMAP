@@ -11,7 +11,8 @@ a group of 3D prickle pear models  un mesh format using the COLMAP software
 with structure from motion techniques. All the elements used during the 3D reconstruction pipeline are explained in the next figure.
 
 
-![Imagen1](https://github.com/user-attachments/assets/0d6be587-7087-4210-a2ca-fb87d20d3122)
+![Imagen2](https://github.com/user-attachments/assets/f328d085-4efd-416c-8256-f432beb7d312)
+> Fig. 1. 3D Reconstruction Pipeline
 
 ## Study cases
 
