@@ -46,11 +46,13 @@ of the image acquisition environment. The conditions of each case are described 
 - Constant lighting and background with minimal noise.
 - Photographs taken on the side of the sample and with a small angle of inclination.
 
+![obj1](https://github.com/user-attachments/assets/f52dc176-c54d-4be6-a710-8cec9be7223e)
+> Fig. 2. Clean 3D prickle pear models in OBJ format, case 1
+
+![stl1](https://github.com/user-attachments/assets/fad0077a-b78f-4139-91f1-0ec8a746c631)
+> Fig. 3. Clean 3D prickle pear models in STL format, case 1
 
 
-> Fig. 2. Clean 3D prickle pear models in OBJ format
-
-> Fig. 3. Clean 3D prickle pear models in STL format
 
 
 #### Case 2 Parameters
@@ -61,3 +63,9 @@ of the image acquisition environment. The conditions of each case are described 
 - The sample rotates at a maximum angle of 90° for the set of 4 images and at a 
 minimum angle of 5.625° for the set of 64 images, in order to make use of a single database 
 of photographs taken of the sample.
+
+![obj1](https://github.com/user-attachments/assets/f52dc176-c54d-4be6-a710-8cec9be7223e)
+> Fig. 2. Clean 3D prickle pear models in OBJ format, case 1
+
+![stl1](https://github.com/user-attachments/assets/fad0077a-b78f-4139-91f1-0ec8a746c631)
+> Fig. 3. Clean 3D prickle pear models in STL format, case 1
