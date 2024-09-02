@@ -66,7 +66,7 @@ of photographs taken of the sample.
 
 
 ![obj2](https://github.com/user-attachments/assets/62637175-7a74-46c7-ada1-2961f3b3b2c3)
-> Fig. 2. Clean 3D prickle pear models in OBJ format, case 2
+> Fig. 4. Clean 3D prickle pear models in OBJ format, case 2
 
 ![stl2](https://github.com/user-attachments/assets/854f77e7-cbec-461e-8e80-1b27785944a8)
-> Fig. 3. Clean 3D prickle pear models in STL format, case 2
+> Fig. 5. Clean 3D prickle pear models in STL format, case 2
